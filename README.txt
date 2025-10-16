@@ -1,0 +1,1 @@
+Minimal Liopi Village placeholder. For full project, request upload to GitHub.
